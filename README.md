@@ -1,5 +1,5 @@
 ### Hi there 👋, Tarikul Hasan Shuvo
-I am a Full Stack Developer with 3+ years of experience using different technology like ( Laravel, Vue JS, React JS etc.). I have good skills in Problem Solving & OOP. Passionate about learning new technology
+I am a Full Stack Developer with 4+ years of experience using different technology like ( Laravel, Vue JS, React JS etc.). I have good skills in Problem Solving & OOP. Passionate about learning new technology
 and skills.
 
 Special Skill: 
@@ -26,7 +26,7 @@ Database:
 - MySQL, MongoDB, Elastic Search.
 
 Others : 
-Git, Electron Js, IndexDB, Dexie, Node Js, SOLID, OOP, MERN,.
+Git, Electron Js, IndexDB, Dexie, Node Js, SOLID, OOP, MERN, Socket.io.
 
 
 Payment Gateway:
@@ -40,7 +40,7 @@ Cloud:
 
 
 3rd Party App & Integrations:
-- Laravel Socialite, Passport, WebSocket
+- Laravel Socialite, Passport, WebSocket, Laravel Backpack, Filament.
 - Sail, Horizon, Sanctum, Package Development.
 - Google Vision API, Google Map API,YouTube Video Upload & Show.
 - SMS gateway, Facebook content post API, Twitter content post API.
@@ -48,7 +48,7 @@ Cloud:
 
 Skills: Laraval, Vue JS , React JS, React Native, jQuery, Electron JS, Git, Bootstrap, SCSS etc.
 
-- 🔭 I’m currently working on BelivIT 
+- 🔭 I’m currently working on SELISE Digital Platform 
 - 💬 Ask me about Web Development 
 
 
